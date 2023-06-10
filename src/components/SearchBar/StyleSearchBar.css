@@ -1,0 +1,26 @@
+.SearchBar {
+/*     display: flex;
+    align-items: flex-end;
+    justify-content: center; */
+}
+.Input {
+    margin-right: 3px;
+    width: 220px;
+    border-radius: 7px;
+    margin-bottom: 5px;
+}
+.Agregar {
+    font-family: "Comic Sans MS", cursive;
+    font-weight: bold;
+    background-color: rgba(255, 255, 25, 0.863);
+    border-radius: 7px;
+    border: 2px solid rgba(255, 255, 25, 0.863);
+}
+.Agregar:hover,
+.Agregar:focus {
+  border: 2px solid green;
+}
+
+/* position: relative;
+right: 0%;
+top: 50%; */

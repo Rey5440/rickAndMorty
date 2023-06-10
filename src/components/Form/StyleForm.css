@@ -1,0 +1,8 @@
+.Contenedor {
+    position: fixed;
+    top: 50%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(224, 205, 92, 0.904);
+    padding: 20px;
+}

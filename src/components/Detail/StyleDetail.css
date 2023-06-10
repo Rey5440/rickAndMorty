@@ -1,0 +1,16 @@
+.Detail{
+    display: flex;
+    font-family: "Comic Sans MS", cursive;
+    background-color: rgba(224, 205, 92, 0.904);
+    height: auto;
+    margin-top: 10px;
+}
+.TextDetail{
+    display: table-column;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.ImgDetail{
+    margin: 45px;
+    margin-top: 45px;
+}
